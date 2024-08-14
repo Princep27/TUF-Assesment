@@ -1,0 +1,32 @@
+.banner-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff9f6;
+    cursor: pointer;
+  }
+  
+.banner-timer {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ff5722; 
+    margin-top: 10px;
+    padding: 10px;
+    border: 2px solid #ff5722;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.banner-description{
+    font-size: 25px;
+    font-weight:100;
+    color: #242423; 
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.banner-link{
+    text-decoration: none;
+    color: inherit;
+}
