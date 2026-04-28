@@ -20,10 +20,10 @@ Real-time banner system with admin dashboard, live updates via WebSockets, and c
 
 # Create a .env file in /server:
 
-DBHOST=your_host
-DBPORT=your_port
-DBUSER=your_user
-DBPASSWORD=your_password
-DBDATABASE=your_database
+DBHOST=your_host,
+DBPORT=your_port,
+DBUSER=your_user,
+DBPASSWORD=your_password,
+DBDATABASE=your_database,
 PORT=9000
 
